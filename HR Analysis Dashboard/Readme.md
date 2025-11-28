@@ -1,5 +1,6 @@
 📊 HR Analytics Dashboard (Excel Project)
 🔍 Dashboard Preview
+![HR Analytics Dashboard](https://raw.githubusercontent.com/prayas571/Excel-Project/main/HR%20Analysis%20Dashboard/Screenshot%202025-10-21%20160222.png)
 
 📘 Project Overview
 
