@@ -1,5 +1,9 @@
 📊 E-Commerce Sales Analysis Dashboard (Excel Project)
+
 🖼️ Dashboard Preview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prayas571/Excel-Project/main/Ecommerce%20Sales%20Analysis/Screenshot%202025-11-28%20105203.png" alt="Ecommerce Sales Analysis Dashboard" width="900" />
+</p>
 
 
 This project presents a professional and fully interactive E-Commerce Sales Analysis Dashboard built using Microsoft Excel.
